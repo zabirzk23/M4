@@ -218,6 +218,8 @@ int main() {
 ![Screenshot 2025-05-17 144605](https://github.com/user-attachments/assets/d6295776-235d-4e6a-be89-bf0f3f2e89a1)
 
 
+
+
 ## RESULT
 Thus the C Program to compare two strings without using strcmp() has been executed successfully.
 
